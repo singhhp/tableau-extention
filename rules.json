@@ -1,0 +1,6 @@
+{
+    "Sales Report": {
+      "includeTitle": true,
+      "hideColumns": ["Internal Notes", "Cost Price"]
+    }
+}
